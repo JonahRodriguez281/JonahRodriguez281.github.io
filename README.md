@@ -12,3 +12,7 @@ Hello, my name is Jonah Rodriguez and I'm new to the field of coding. I've worke
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/jonah-rodriguez-106b231b5/)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+ > 
+ > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
