@@ -10,3 +10,5 @@ Hello, my name is Jonah Rodriguez and I'm new to the field of coding. I've worke
 * Hello World: Android application
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/jonah-rodriguez-106b231b5/)
