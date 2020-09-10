@@ -5,9 +5,9 @@ Hello, my name is Jonah Rodriguez and I'm new to the field of coding. I've worke
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application] (https://github.com/JonahRodriguez281/deep-dive-hello-world)
 
-* Hello World: Android application
+* [Hello World: Android application] (https://github.com/JonahRodriguez281/android-hello-world)
 
 ## Links
 
