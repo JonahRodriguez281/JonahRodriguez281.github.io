@@ -19,4 +19,4 @@ Hello, my name is Jonah Rodriguez and I'm new to the field of coding. I've worke
 
 * [LinkedIn](https://www.linkedin.com/in/jonah-rodriguez-106b231b5/)
 
-* [Bard: Personal Android Project Website](jonahrodriguez281.github.io/bard/)
+* [Bard: Personal Android Project Website](jonahrodriguez281.github.io/bard)
