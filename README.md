@@ -8,6 +8,13 @@ Hello, my name is Jonah Rodriguez and I'm new to the field of coding. I've worke
 
 * [Hello World: Android application](https://github.com/JonahRodriguez281/android-hello-world)
 
+### Recently updated repositiories
+
+{% assign public_repositories = site.github.public_repositories | where: 'fork', false | sort: 'updated_at' | reverse %}
+{% for repo in public_repositories limit: 10 %}
+* [{{ repo.name }}]({{ repo.html_url }})
+{% endfor %}
+
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/jonah-rodriguez-106b231b5/)
