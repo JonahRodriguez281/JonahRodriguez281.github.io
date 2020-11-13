@@ -4,9 +4,9 @@ Hello, my name is Jonah Rodriguez and I'm new to the field of coding. I've worke
 
 ## Capstone Projects
 
-* [Bard: Personal Android Project](github.com/JonahRodriguez281/bard)
+* [Bard: Personal Android Project](https://www.github.com/JonahRodriguez281/bard)
 
-* [Powdr: Capstone Team Project](github.com/powdr-ddc/powdr-ddc.github)
+* [Powdr: Capstone Team Project](https://www.github.com/powdr-ddc/powdr-ddc.github)
 
 ### Recently updated repositiories
 
@@ -19,4 +19,4 @@ Hello, my name is Jonah Rodriguez and I'm new to the field of coding. I've worke
 
 * [LinkedIn](https://www.linkedin.com/in/jonah-rodriguez-106b231b5/)
 
-* [Bard: Personal Android Project Website](jonahrodriguez281.github.io/bard)
+* [Bard: Personal Android Project Website](https://www.jonahrodriguez281.github.io/bard)
